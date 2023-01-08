@@ -1,0 +1,127 @@
+body {
+    margin: 0;
+    background: black;
+}
+
+#heading {
+    background: #4C1D95;
+    width: 550px;
+    height: 330px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top {
+    padding-top: 40px;
+    font-size: 28px;
+}
+
+.middle::-webkit-outer-spin-button,
+.middle::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.middle[type=number] {
+  -moz-appearance: textfield;
+}
+
+.middle {
+    width: 117px;
+    height: 83px;
+    background: #4C1D95;
+    border: 2px solid #B295FF;
+    margin-top: 25px;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px black;
+}
+
+.bottom {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    width: 117px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+#ending{
+    background: #8B5CF6;
+    width: 550px;
+    height: 500px;
+    margin: auto;
+    padding-top: 20px;   
+}
+
+#first {
+    text-align: center;
+    background: #B295FF;
+    height: 120px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+#second {
+    text-align: center;
+    background: #B295FF;
+    height: 120px;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 5px;
+    margin-top: 30px;
+        
+}
+
+#third {
+    text-align: center;
+    background: #B295FF;
+    height: 120px;
+   width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.format {
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.format1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.format2{
+    font-weight: bold;
+    text-align: center;
+}
+
+.format3{
+    font-weight: bold;
+    text-align: center;
+}
+
+.bottom {cursor: pointer;}
