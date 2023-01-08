@@ -8,7 +8,7 @@ const convert = document.querySelector(".bottom")
 render(input.value)
 convert.addEventListener("click",function(){
     if(input.value > 100000000000000000000000000001){
-        input.value = 10000000000000000000000000
+        input.value = 100000000000000000000000000001
     }
     if(input.value >=0){
     render(input.value)
